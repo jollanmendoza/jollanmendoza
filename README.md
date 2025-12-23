@@ -1,4 +1,4 @@
-# Portfolio: [Jollan Mendoza]
+# Portfolio: Jollan Mendoza
 
 ## Professional Summary
 Aspiring Governance, Risk, and Compliance (GRC) Analyst with a focus on cloud security environments. Currently building a technical foundation in Microsoft Azure and security frameworks to bridge the gap between technical operations and business compliance.
