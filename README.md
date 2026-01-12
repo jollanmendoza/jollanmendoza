@@ -18,7 +18,7 @@ Aspiring Governance, Risk, and Compliance (GRC) Analyst with a focus on cloud se
 - [Azure Security Journey](https://github.com/jollanmendoza/Azure-Security-Journey): A centralized repository for my AZ-900 and SC-900 study notes and technical implementations.
 
 **Current Progress:** Day 2- Active Recall & Management Tools.
-**System Architecture:** Utilizing a duel-linked system between GitHub Documentation and a **[Notion GRC Study Lab] (https://www.notion.so/Microsoft-Certification-Hub-2d1172aeee6380b29a72ed97357585ef?source=copy_link)**
+**System Architecture:** Utilizing a duel-linked system between GitHub Documentation and a **[Notion GRC Study Lab](https://www.notion.so/Microsoft-Certification-Hub-2d1172aeee6380b29a72ed97357585ef?source=copy_link)**
 
 ## Contact Information
 - **LinkedIn:** [View my LinkedIn Profile](https://www.linkedin.com/in/jollanmendoza/)
